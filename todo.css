@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(58, 140, 140);
+    
+}
+.container{
+    width: 360px;
+    padding: 33px;
+    
+    text-align: center;
+    background-color: white;
+    margin-left:35%;
+    margin-top: 5px;
+    
+    
+
+}
+input{
+    width: 273px;
+    padding: 5px;
+    border: 2px solid black;
+
+}
+button{
+    width: 63px;
+    height: 30px;
+    background-color: aqua;
+    color: 5px solid black;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+
+
+}
+.text ul{
+    position: relative;
+    background-color: black;
+    color: white;
+    font-size:13px;
+    text-align: left;
+    
+    padding: 6px;
+}
+.text ul i{
+    position: absolute;
+    right:10px;
+    cursor: pointer;
+    color: white;
+}
